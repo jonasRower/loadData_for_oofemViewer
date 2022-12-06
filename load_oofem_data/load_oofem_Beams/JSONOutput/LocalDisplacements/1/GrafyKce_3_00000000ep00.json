@@ -1,0 +1,29 @@
+LocalDisplacements_1_3_00000000ep00 = '{"grafyKCE": [' +
+'  {"data": [' +
+'     {"prut": {' +
+'           "kce": {"Ax":0.0,"Ay":0.0,"Bx":120.0,"By":0.0,"graf":true,"vykreslitPrut":true,"barvaCary":"darkBlue", "tloustkaCary":"3"},' +
+'           "graf": {"delkaKrokuPriblizne":10,"nasobkyMocnin":[[0, 1], [-0.00086399, 6.0956e-09]],"vykreslitGraf":true,"vykreslitSrafu":true,"barvaCarySrafy":"#000000","tloustkaCarySrafa":"0.5","barvaCaryGraf":"#000000","tloustkaCaryGraf":"1"}' +
+'       }},' +
+'     {"prut": {' +
+'           "kce": {"Ax":120.0,"Ay":0.0,"Bx":190.0,"By":0.0,"graf":true,"vykreslitPrut":true,"barvaCary":"darkBlue", "tloustkaCary":"3"},' +
+'           "graf": {"delkaKrokuPriblizne":10,"nasobkyMocnin":[[0, 1], [6.0956e-09, 0.00050401]],"vykreslitGraf":true,"vykreslitSrafu":true,"barvaCarySrafy":"#000000","tloustkaCarySrafa":"0.5","barvaCaryGraf":"#000000","tloustkaCaryGraf":"1"}' +
+'       }},' +
+'     {"prut": {' +
+'           "kce": {"Ax":190.0,"Ay":0.0,"Bx":290.0,"By":75.0,"graf":true,"vykreslitPrut":true,"barvaCary":"darkBlue", "tloustkaCary":"3"},' +
+'           "graf": {"delkaKrokuPriblizne":10,"nasobkyMocnin":[[0, 1], [0.0011125, 0.0011125]],"vykreslitGraf":true,"vykreslitSrafu":true,"barvaCarySrafy":"#000000","tloustkaCarySrafa":"0.5","barvaCaryGraf":"#000000","tloustkaCaryGraf":"1"}' +
+'       }},' +
+'     {"prut": {' +
+'           "kce": {"Ax":290.0,"Ay":75.0,"Bx":390.0,"By":150.0,"graf":true,"vykreslitPrut":true,"barvaCary":"darkBlue", "tloustkaCary":"3"},' +
+'           "graf": {"delkaKrokuPriblizne":10,"nasobkyMocnin":[[0, 1], [0.0011125, 0.0011125]],"vykreslitGraf":true,"vykreslitSrafu":true,"barvaCarySrafy":"#000000","tloustkaCarySrafa":"0.5","barvaCaryGraf":"#000000","tloustkaCaryGraf":"1"}' +
+'       }},' +
+'     {"prut": {' +
+'           "kce": {"Ax":120.0,"Ay":150.0,"Bx":120.0,"By":0.0,"graf":true,"vykreslitPrut":true,"barvaCary":"darkBlue", "tloustkaCary":"3"},' +
+'           "graf": {"delkaKrokuPriblizne":10,"nasobkyMocnin":[[0, 1], [0.0, -9.5427e-20]],"vykreslitGraf":true,"vykreslitSrafu":true,"barvaCarySrafy":"#000000","tloustkaCarySrafa":"0.5","barvaCaryGraf":"#000000","tloustkaCaryGraf":"1"}' +
+'       }},' +
+'       {"Ox":50},' +
+'       {"Oy":100},' +
+'       {"meritkoGraf":35955.06},' +
+'       {"id":"test"},' +
+'       {"class":""}' +
+'   ]}' +
+'   ]}';
